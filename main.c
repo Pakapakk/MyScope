@@ -28,6 +28,7 @@ int main()
   printf("\n========================\n");
   useStaticLocal();
   useStaticLocal();
+  useStaticLocal();
   printf("\n========================\n");
   useGlobal();
   useGlobal();
